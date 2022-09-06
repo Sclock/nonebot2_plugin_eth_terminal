@@ -6,7 +6,6 @@ authors = ["Sclock <1342810270@qq.com>"]
 license = "MIT"
 readme = "README.md"
 repository = "https://github.com/Sclock/nonebot2_plugin_eth_terminal"
-documentation = "https://sclock.github.io/nonebot2_plugin_eth_terminal"
 keywords = ["bot", "qq", "qqbot", "coolq", "onebot", "cqhttp"]
 classifiers = [
   "Development Status :: 5 - Production/Stable",
